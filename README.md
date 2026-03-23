@@ -62,7 +62,7 @@ Provides navigation to all sections of the dashboard.
 * Revenue by location and payment method
 * Peak vs non-peak performance
 
-![Dashboard4](dashboard4.jpg)
+![Dashboard4](images/dashboard4.jpg)
 
 ---
 
@@ -133,5 +133,3 @@ For full interactivity, use the Power BI file.
 **Ketan Arote**
 
 ---
-
-If any images are not visible in the README, please refer to the Urban Taxi Fare Analysis Report PDF.
